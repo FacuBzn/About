@@ -1,7 +1,7 @@
 
 <p align="center" width="300">
-   <img align="center" width="350" src="https://github.com/FacuBzn/About/blob/main/FacundoBzn.png" />
-   <h2 align="center">¡Hola👋! Soy Facu Bazan 👨🏻‍💻</h2>
+   <img align="center" width="350" src="https://github.com/FacuBzn/About/blob/main/FacundoBzn.png"/>
+   <h2 align="center">¡ Hola👋! Soy Facu Bazan 👨🏻‍💻</h2>
    <h4 align="center">Soy Ing. en Sistemas de Información y Analista en Sistemas, de la Facultad Regional Tucumán, Universidad Tecnológica Nacional.</h4>
    <p align="center">Soy <strong>Software Developer </strong><br />
 </p>
