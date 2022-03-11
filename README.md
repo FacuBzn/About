@@ -20,7 +20,6 @@
 
    [![GitHub stats](https://github-readme-stats.vercel.app/api?      username=facundobazan&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats:&theme=dark)](https://github.com/FacuBzn)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundobazan&layout=compact&theme=dark)](https://github.com/FacuBzn)   
 
 
 
