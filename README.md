@@ -6,7 +6,7 @@
    <p align="center">Soy <strong>Software Developer </strong><br />
 </p>
 
-<p align="center">Actualmente estoy trabajando en una financiera de Buenos Aires, llamada Credicuotas.</p>
+<p align="center"></p>
 <p align="center">Este es mi repositorio donde iré subiendo mis progresos en la programacion. Ademas podes seguirme en mi linkedin. <strong>Saludos 👋 </strong>
 </p>
 
