@@ -280,6 +280,10 @@
           "type": "technology"
         },
         {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
