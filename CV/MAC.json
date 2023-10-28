@@ -44,7 +44,29 @@
             "startDate": "2022-07-01",
             "challenges": [
               {
-                "description": " helped me get this job"
+                "description": "Diseño y construcción de API’s y servicios backend orientadas a\nexperiencias conversacionales. Armado del setup inicial de los bots en\nplataformas de IA. Montaje de servicios en la nube. Desarrollo de\ndocumentaciones funcionales de los proyectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
