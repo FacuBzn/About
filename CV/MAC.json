@@ -112,23 +112,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Direccion de Recursos Hidricos de la Provincia"
-        },
-        "roles": [
-          {
-            "name": "IT INTERN",
-            "startDate": "2019-06-01",
-            "finishDate": "2019-12-31",
-            "challenges": [
-              {
-                "description": "Skills: Resolución de incidencias"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
