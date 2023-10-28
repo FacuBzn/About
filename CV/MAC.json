@@ -262,6 +262,10 @@
         {
           "name": "NodeJS",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
