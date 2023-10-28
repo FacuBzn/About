@@ -108,7 +108,29 @@
             "finishDate": "2022-07-31",
             "challenges": [
               {
-                "description": "Skills: GitHub · TypeScript · Control de versiones · Procesos de negocio · Lenguajes de programación · MySQL · Programación orientada a objetos (POO) · JSON · Desarrollo de software · Algoritmos · SQL · Express.js · Node.js · Git · Bases de datos · Resolución de incidencias · Liderazgo · Gestión de proyectos · Scrum · Gestión de proyectos de programas de software · Capacidad de análisis · Metodologías ágiles"
+                "description": "Analizar los requerimientos del negocio, diseñar y programar soluciones de\nsoftware. Resolver errores y desarrollar nuevas funcionalidades.\nRevisar el impacto de eventuales cambios y factibilidad de ejecución.\nDefinir el procedimiento asociado al requerimiento del negocio y proponer\ncambios para la mejora continua del proceso.\nDefinición, análisis, seguimiento y cumplimiento de KPI's del negocio. Preparar la\ndocumentación funcional."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
