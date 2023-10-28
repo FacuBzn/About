@@ -115,23 +115,6 @@
       },
       {
         "organization": {
-          "name": "Casa Malkind"
-        },
-        "roles": [
-          {
-            "name": "System Administrator",
-            "startDate": "2019-12-01",
-            "finishDate": "2020-08-31",
-            "challenges": [
-              {
-                "description": "Skills: Resolución de incidencias · Gestión de proyectos"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Direccion de Recursos Hidricos de la Provincia"
         },
         "roles": [
