@@ -255,6 +255,12 @@
       ],
       "contactMails": [
         "juanfacundobazan@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3816781879",
+          "countryCode": "+54"
+        }
       ]
     },
     "preferences": {
