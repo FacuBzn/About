@@ -293,6 +293,17 @@
           "URL": "http://www.frt.utn.edu.ar/"
         },
         "finishDate": "2019-10-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero en Sistemas de Informacion",
+        "startDate": "2014-03-01",
+        "institution": {
+          "name": "Universidad Tecnologica Nacional, Facultad Regional Tucumán",
+          "URL": "http://www.frt.utn.edu.ar/"
+        },
+        "finishDate": "2021-09-01"
       }
     ]
   },
