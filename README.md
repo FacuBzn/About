@@ -1,6 +1,6 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
-# Juan Facundo Bazan Alvarez's CV
+# Facunod Bazan Alvarez's CV
 
 This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
 <br/>
