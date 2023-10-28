@@ -260,6 +260,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
