@@ -305,9 +305,21 @@
         "startDate": "2014-03-01",
         "institution": {
           "name": "Universidad Tecnologica Nacional, Facultad Regional Tucumán",
-          "URL": "http://www.frt.utn.edu.ar/"
+          "URL": "http://www.frt.utn.edu.ar/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/a2abe085-2326-4953-875e-516c54b06ada_logoutn.png",
+            "alt": "logoUTN.png"
+          }
         },
         "finishDate": "2021-09-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
       }
     ]
   },
