@@ -69,11 +69,19 @@
                 "type": "technology"
               },
               {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
                 "name": "NodeJS",
                 "type": "technology"
               },
               {
                 "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
                 "type": "technology"
               },
               {
