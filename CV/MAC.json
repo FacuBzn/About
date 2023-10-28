@@ -49,6 +49,18 @@
             ],
             "competences": [
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
                 "type": "technology"
               },
