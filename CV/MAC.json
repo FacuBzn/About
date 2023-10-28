@@ -281,6 +281,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Analista Universitario",
+        "startDate": "2014-03-01",
+        "institution": {
+          "name": "Universidad Tecnologica Nacional, Facultad Regional Tucumán",
+          "URL": "http://www.frt.utn.edu.ar/"
+        },
+        "finishDate": "2019-10-01"
+      }
     ]
   },
   "careerPreferences": {
