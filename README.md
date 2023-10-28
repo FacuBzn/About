@@ -2,7 +2,7 @@
 
 # Facunod Bazan Alvarez's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/7a36bbe9-e65f-4ebc-9899-14871d0db30d).
 <br/>
 <br/>
 
