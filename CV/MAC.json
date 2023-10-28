@@ -1,0 +1,254 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan",
+      "surnames": "Facundo Bazan Alvarez",
+      "title": "Ingeniero en Sistemas | Analista en Sistemas | Full stack Developer | Backend Developer",
+      "description": "Soy Ing. en Sistemas de Información y Analista en Sistemas, de la Facultad Regional Tucumán, Universidad Tecnológica Nacional.\nSoy una persona con iniciativa propia y con un objetivo claro de poder potenciar los equipos de trabajos, con nuevas herramientas concretas en función de cada necesidad particular. Poseo una amplia capacidad de adaptación a equipos multidisciplinarios o multitareas. Disfruto de aprender y de tener nuevos desafíos profesionales que me hagan crecer laboral y personalmente.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/e526f21b-3a1b-4fbd-aea9-e327d950f4d8_linkedin-photo-46227.linkedin-photo-46227",
+        "alt": "23/10/28/e526f21b-3a1b-4fbd-aea9-e327d950f4d8_linkedin-photo-46227.linkedin-photo-46227"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJA2nF1pI3IpQRJ2XFtZJbjfg)",
+        "country": "Argentina",
+        "region": "Tucumán",
+        "municipality": "San Miguel de Tucumán"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanfacundobazanalvarez"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BeBot",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/6787aafc-9d95-4646-a291-f0b6aa4058ca_linkedin-photo-46227.linkedin-photo-46227",
+            "alt": "23/10/28/6787aafc-9d95-4646-a291-f0b6aa4058ca_linkedin-photo-46227.linkedin-photo-46227"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Tecnológica Nacional",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/14bf9c8e-ce68-4fe3-ba35-6230771f2e9d_linkedin-photo-46227.linkedin-photo-46227",
+            "alt": "23/10/28/14bf9c8e-ce68-4fe3-ba35-6230771f2e9d_linkedin-photo-46227.linkedin-photo-46227"
+          }
+        },
+        "roles": [
+          {
+            "name": "Investigador",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "Becario de Proyecto \"Sistemas Agroindustriales\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Credicuotas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/cd7c15ec-4053-4298-b8dd-7ef11e553eee_linkedin-photo-46227.linkedin-photo-46227",
+            "alt": "23/10/28/cd7c15ec-4053-4298-b8dd-7ef11e553eee_linkedin-photo-46227.linkedin-photo-46227"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programmer Analyst",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "Skills: GitHub · TypeScript · Control de versiones · Procesos de negocio · Lenguajes de programación · MySQL · Programación orientada a objetos (POO) · JSON · Desarrollo de software · Algoritmos · SQL · Express.js · Node.js · Git · Bases de datos · Resolución de incidencias · Liderazgo · Gestión de proyectos · Scrum · Gestión de proyectos de programas de software · Capacidad de análisis · Metodologías ágiles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SYNAgro - Software Agropecuario",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/406a8337-0e00-4326-b403-703610d193f4_linkedin-photo-46227.linkedin-photo-46227",
+            "alt": "23/10/28/406a8337-0e00-4326-b403-703610d193f4_linkedin-photo-46227.linkedin-photo-46227"
+          }
+        },
+        "roles": [
+          {
+            "name": "Functional System Analyst",
+            "startDate": "2020-08-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Procesos de negocio · Lenguajes de programación · Algoritmos · SQL · Bases de datos · Resolución de incidencias · Gestión de proyectos · Scrum · Gestión de proyectos de programas de software · Capacidad de análisis · Metodologías ágiles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Casa Malkind"
+        },
+        "roles": [
+          {
+            "name": "System Administrator",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-08-31",
+            "challenges": [
+              {
+                "description": "Skills: Resolución de incidencias · Gestión de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Direccion de Recursos Hidricos de la Provincia"
+        },
+        "roles": [
+          {
+            "name": "IT INTERN",
+            "startDate": "2019-06-01",
+            "finishDate": "2019-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Resolución de incidencias"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/juanfacundobazanalvarez",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "juanfacundobazan@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
+  }
+}
