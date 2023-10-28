@@ -290,7 +290,11 @@
         "startDate": "2014-03-01",
         "institution": {
           "name": "Universidad Tecnologica Nacional, Facultad Regional Tucumán",
-          "URL": "http://www.frt.utn.edu.ar/"
+          "URL": "http://www.frt.utn.edu.ar/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/fa1e0346-8a1c-4bce-8ada-9bfbec633b27_logoutn.png",
+            "alt": "logoUTN.png"
+          }
         },
         "finishDate": "2019-10-01"
       },
