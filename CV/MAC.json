@@ -32,6 +32,60 @@
     "jobs": [
       {
         "organization": {
+          "name": "C&S Informatica S.A."
+        },
+        "roles": [
+          {
+            "name": "SOFTWARE BACKEND SSR",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Diseñé y desarrollé microservicios, componentes reutilizables y procesos automatizados\nutilizando TDD. Me enfoqué en mejorar la escalabilidad, mantenibilidad y calidad del\ncódigo, proponiendo mejoras y evolucionando la arquitectura."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "BeBot",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/6787aafc-9d95-4646-a291-f0b6aa4058ca_linkedin-photo-46227.linkedin-photo-46227",
