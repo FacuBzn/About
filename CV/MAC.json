@@ -32,7 +32,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "C&S Informatica S.A."
+          "name": "C&S Informatica S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/16/b36732cf-86c2-484c-8598-df720494cbb5_cys-talent.jpeg",
+            "alt": "CyS-talent.jpeg"
+          }
         },
         "roles": [
           {
