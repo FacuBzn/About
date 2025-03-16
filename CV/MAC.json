@@ -195,7 +195,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -207,25 +207,13 @@
       },
       {
         "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
