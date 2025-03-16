@@ -1,12 +1,12 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Facunod",
+      "name": "Juan Facundo",
       "surnames": "Bazan Alvarez",
       "title": "Ingeniero en Sistemas | Analista en Sistemas | Full stack Developer | Backend Developer",
       "description": "Soy Ing. en Sistemas de Información y Analista en Sistemas, de la Facultad Regional Tucumán, Universidad Tecnológica Nacional.\nSoy una persona con iniciativa propia y con un objetivo claro de poder potenciar los equipos de trabajos, con nuevas herramientas concretas en función de cada necesidad particular. Poseo una amplia capacidad de adaptación a equipos multidisciplinarios o multitareas. Disfruto de aprender y de tener nuevos desafíos profesionales que me hagan crecer laboral y personalmente.",
@@ -183,10 +183,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -229,7 +231,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -292,8 +294,8 @@
           "name": "Universidad Tecnologica Nacional, Facultad Regional Tucumán",
           "URL": "http://www.frt.utn.edu.ar/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/fa1e0346-8a1c-4bce-8ada-9bfbec633b27_logoutn.png",
-            "alt": "logoUTN.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/359aa7de-1529-4ea9-85ee-f5539b46d5bf_utn_logo.jpg",
+            "alt": "UTN_logo.jpg"
           }
         },
         "finishDate": "2019-10-01"
@@ -342,15 +344,6 @@
           "URL": "https://www.linkedin.com/in/juanfacundobazanalvarez",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "juanfacundobazan@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "3816781879",
-          "countryCode": "+54"
-        }
       ]
     },
     "preferences": {
@@ -376,7 +369,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
